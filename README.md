@@ -8,3 +8,10 @@ The Screenshots attached below are taken from the real device. This is how it lo
 <br>
 
 <img src="Screenshots/login_1(light_theme).png" width="200" /> <img src="Screenshots/signup_1(light_theme).png" width="200" /> <img src="Screenshots/login_2(dark_theme).png" width="200" /> <img src="Screenshots/signup_2(dark_theme).png" width="200" />
+
+<br>
+<br>
+
+## Authors
+
+* **Rajit Deb** - *Designed And Developed*
